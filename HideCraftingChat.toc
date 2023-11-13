@@ -1,7 +1,7 @@
-## Interface: 100100
+## Interface: 100200
 ## Title: Hide Crafting Messages
 ## Notes: Hides crafting messages in chat
-## Author: Moltun-Area52-US
+## Author: Moltun-Zuljin-US
 ## Version: 1.0.2
 
 HideCraftingChat.lua
