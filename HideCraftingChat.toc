@@ -1,4 +1,4 @@
-## Interface: 100207
+## Interface: 110002
 ## Title: Hide Crafting Messages
 ## Notes: Hides crafting messages in chat
 ## Author: Moltun-Zuljin-US
