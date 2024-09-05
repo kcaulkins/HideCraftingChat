@@ -1,5 +1,5 @@
 local filterFunc = function(self, event, msg, author, ...)
-    if msg:find("creates") then
+    if author ~= UnitName("player") then
         return true
     end
 end
