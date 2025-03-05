@@ -4,4 +4,6 @@
 ## Author: Moltun-Zuljin-US
 ## Version: 1.0.2
 
+## Category: Chat
+
 HideCraftingChat.lua
