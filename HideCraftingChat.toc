@@ -2,7 +2,7 @@
 ## Title: Hide Crafting Messages
 ## Notes: Hides crafting messages in chat
 ## Author: Moltun-Zuljin-US
-## Version: 1.0.2
+## Version: 1.0.3
 
 ## Category: Chat
 
